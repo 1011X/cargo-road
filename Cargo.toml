@@ -1,0 +1,11 @@
+[package]
+name = "cargo-road"
+version = "1.0.0"
+authors = ["1011X <1011XXXXX@gmail.com>"]
+edition = "2018"
+license = "0BSD"
+description = "A joke crate based on another joke crate."
+repository = "https://github.com/1011X/cargo-road"
+readme = "readme.md"
+
+[dependencies]
